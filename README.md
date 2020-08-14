@@ -1,5 +1,5 @@
 # Price Tracker app
-It tracks the price of product or course and notify when price drops via email, the purpose of making this app is, it has been observed that prices of many items on
+It tracks the price of product or course and notify when price drops via email, the purpose of making this app is that, it has been observed that prices of many items on
 online stores fluctuate at very high frequency like in Amazon, the price will change in every 10 minutes. With the help of this app you can track any product you wish to buy. 
 This App can track both ecommerce as well as elearning Website like:-Amazon,Udemy,Flipkart etc.
 
